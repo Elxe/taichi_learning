@@ -1,2 +1,2 @@
 # taichi_learning
-demo from taichi learning lecture
+demos from taichi learning lecture
